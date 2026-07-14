@@ -1,0 +1,9 @@
+{
+  "name": "node-about-me",
+  "version": "1.0.0",
+  "description": "API returning facts about me",
+  "main": "api/about_me.js",
+  "scripts": {
+    "start": "node api/about_me.js"
+  }
+}
