@@ -3,8 +3,8 @@ module.exports = (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
 
     const aboutMeData = {
-        firstName: "Имя (Никита)",
-        lastName: "Фамилия (Габер)",
+        firstName: "Никита",
+        lastName: " Габер",
         status: "Student",
         facts: [
             "Я учусь в Техническом университете Софии (ТУ-София) на факультете интеллектуальных систем и ИИ.",
